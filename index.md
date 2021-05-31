@@ -3,7 +3,7 @@
 
 ### Portfolio
 - Code Review
-- [Enhancement One](https://github.com/GregMacDev/CS-499-Software-Engineering)
+- [Enhancement One](https://gregmacdev.github.io/enhancementOne.html)
 - Enhancement Two
 - Enhancement Three
 
