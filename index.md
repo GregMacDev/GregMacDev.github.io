@@ -1,5 +1,4 @@
-# Greg MacPhelemy
-## CS 499-T5477
+
 
 ### Portfolio
 - Code Review
