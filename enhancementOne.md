@@ -10,7 +10,7 @@ The process of converting the artifact from C++ to Java was more in depth than o
 [Enhancement One](https://github.com/GregMacDev/CS-499-Software-Engineering/tree/main)
 
 ## ePortfolio Links
-- Main Page
+- [Main Page](https://GregMacDev.github.io/index.html)
 - Code Review
 - Enhancement Two
 - Enhancement Three
