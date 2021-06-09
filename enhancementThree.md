@@ -3,7 +3,7 @@ COMING SOON
 ...in progress...
 
 ### Repository
-[Enhancement Three](https://github.com/GregMacDev/CS-499-Software-Engineering/tree/main) COMING SOON
+[Enhancement Three](https://GregMacDev.github.io/index.html) COMING SOON
 
 ## ePortfolio Links
 - [Main Page](https://GregMacDev.github.io/index.html)
