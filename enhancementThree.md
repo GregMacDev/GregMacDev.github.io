@@ -1,5 +1,6 @@
 ## Database
 COMING SOON
+...in progress...
 
 ### Repository
 [Enhancement Three](https://github.com/GregMacDev/CS-499-Software-Engineering/tree/main) COMING SOON
