@@ -1,5 +1,5 @@
 
-...professional self-assessment goes here....
+...professional self-assessment goes here....COMING SOON
 
 
 ### Portfolio
@@ -7,7 +7,3 @@
 - [Enhancement One](https://gregmacdev.github.io/enhancementOne.html)
 - [Enhancement Two](https://gregmacdev.github.io/enhancementTwo.html)
 - [Enhancement Three](https://gregmacdev.github.io/enhancementThree.html)
-
-
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
