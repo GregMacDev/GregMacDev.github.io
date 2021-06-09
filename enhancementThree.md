@@ -2,7 +2,7 @@
 COMING SOON
 ...in progress...
 
-### Database Demonstration/Code Review
+### Database Code Review and Demonstration
 COMING SOON
 
 ### Repository
