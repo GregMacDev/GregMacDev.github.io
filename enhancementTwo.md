@@ -6,3 +6,12 @@ I chose to continue working with my Lab 1-3 artifact as I felt the conversion fr
 The outline for this enhancement, presented in the proposal from module one, introduced the ArrayList and Quicksort implementations and I feel as though I met, and in some areas exceeded the expectations of the proposal. Initially, I had set out to only allow the user to sort on two of the four elements of each class object, but when implementing these changes, I included the functionality to sort on each of the four elements of each class object. While creating and testing the enhancements proposed, I have considered expanding up this project even further and implementing a full array of CRUD functionality in the future. I am hoping to implement update and delete functionality, alongside the add functionality that already exists, as well as a search function to round out the program’s user experience.
   
 The implementation of these enhancements caused several drawbacks in areas I was not expecting while also proving to be less disruptive in areas that I had anticipated. Creating, populating, and accessing the ArrayList and its elements did not provide any unforeseen challenges. Creating a method to properly display all the elements of the ArrayList was an initial oversight that I had not planned for. Developing the proper formatting and visuals for this method was the lengthiest part of it. Implementation of the quicksort algorithm proved to be more difficult than anticipated in other unexpected ways. Going in, and one of the reasons to implement the quicksort algorithm, recursion was an element I wanted to utilize with the expectation of struggling to implement it. However, the recursive element of quicksort was implemented quickly and correctly. Understanding that after partitioning the list, it was necessary to traverse the list numerous times, the recursive calls were an easy implementation. However, the iterations through each part of the ArrayList and making the comparisons proved to be the most difficult part of this algorithm. Finding the proper syntax for comparison on each element became problematic. Once I worked out the proper comparisons, the remainder of the quicksort algorithm came together successfully.
+
+### Repository
+[Enhancement Two](https://github.com/GregMacDev/CS-499-Software-Engineering/tree/main)
+
+## ePortfolio Links
+- [Main Page](https://GregMacDev.github.io/index.html)
+- Code Review
+- Enhancement Two
+- Enhancement Three
