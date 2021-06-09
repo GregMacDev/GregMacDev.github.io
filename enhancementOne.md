@@ -1,4 +1,3 @@
- [editor on GitHub](https://github.com/GregMacDev/GregMacDev.github.io/edit/main/enhancementOne.md)
 ## Software Design and Engineering Enhancement
 For my first enhancement, covering Software Engineering/Design, I chose [Lab 1-3 from my Data Structures and Algorithms course](https://github.com/GregMacDev/CS-499-Software-Engineering/blob/main/Lab%201-3.txt) that was created in May of 2020. This enhancement converts the program from its original language, C++, to Java. This program, as it was originally written, was intended to showcase the usage and implementation of a C++ struct data type. In this program, a user would enter the data for an item being put up to auction on an e-auction type website and the data would be stored in a struct object, with the option of printing the data to the screen through menu options.
 
@@ -12,5 +11,5 @@ The process of converting the artifact from C++ to Java was more in depth than o
 ## ePortfolio Links
 - [Main Page](https://GregMacDev.github.io/index.html)
 - [Code Review](https://gregmacdev.github.io/enhancement%20plan%20code%20review.html)
-- Enhancement Two
-- Enhancement Three
+- [Enhancement Two](https://gregmacdev.github.io/enhancementTwo.html)
+- [Enhancement Three](https://gregmacdev.github.io/enhancementThree.html)
