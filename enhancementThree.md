@@ -1,7 +1,8 @@
 ## Database
+COMING SOON
 
 ### Repository
-[Enhancement Three](https://github.com/GregMacDev/CS-499-Software-Engineering/tree/main)
+[Enhancement Three](https://github.com/GregMacDev/CS-499-Software-Engineering/tree/main) COMING SOON
 
 ## ePortfolio Links
 - [Main Page](https://GregMacDev.github.io/index.html)
