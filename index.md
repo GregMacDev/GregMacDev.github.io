@@ -4,7 +4,7 @@
 - [Code Review](https://gregmacdev.github.io/enhancement%20plan%20code%20review.html)
 - [Enhancement One](https://gregmacdev.github.io/enhancementOne.html)
 - [Enhancement Two](https://gregmacdev.github.io/enhancementTwo.html)
-- Enhancement Three
+- [Enhancement Three](https://gregmacdev.github.io/enhancementThree.html)
 
 You can use the [editor on GitHub](https://github.com/GregMacDev/GregMacDev.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
