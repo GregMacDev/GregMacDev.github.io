@@ -10,6 +10,6 @@ The process of converting the artifact from C++ to Java was more in depth than o
 
 ## ePortfolio Links
 - [Main Page](https://GregMacDev.github.io/index.html)
-- [Code Review](https://gregmacdev.github.io/enhancement%20plan%20code%20review.html)
+- [Enhancement Plan and Code Review](https://gregmacdev.github.io/enhancement%20plan%20code%20review.html)
 - [Enhancement Two](https://gregmacdev.github.io/enhancementTwo.html)
 - [Enhancement Three](https://gregmacdev.github.io/enhancementThree.html)
