@@ -8,7 +8,7 @@ The outline for this enhancement, presented in the proposal from module one, int
 The implementation of these enhancements caused several drawbacks in areas I was not expecting while also proving to be less disruptive in areas that I had anticipated. Creating, populating, and accessing the ArrayList and its elements did not provide any unforeseen challenges. Creating a method to properly display all the elements of the ArrayList was an initial oversight that I had not planned for. Developing the proper formatting and visuals for this method was the lengthiest part of it. Implementation of the quicksort algorithm proved to be more difficult than anticipated in other unexpected ways. Going in, and one of the reasons to implement the quicksort algorithm, recursion was an element I wanted to utilize with the expectation of struggling to implement it. However, the recursive element of quicksort was implemented quickly and correctly. Understanding that after partitioning the list, it was necessary to traverse the list numerous times, the recursive calls were an easy implementation. However, the iterations through each part of the ArrayList and making the comparisons proved to be the most difficult part of this algorithm. Finding the proper syntax for comparison on each element became problematic. Once I worked out the proper comparisons, the remainder of the quicksort algorithm came together successfully.
 
 ### Repository
-[Enhancement Two](https://github.com/GregMacDev/CS-499-AlgorithmsAndDataStructures/tree/main/CapstoneEnhancementTwo)
+[Enhancement Two](https://github.com/GregMacDev/CS-499-AlgorithmsAndDataStructures/tree/main/CapstoneEnhancementTwo){:target="_blank"}
 
 ## ePortfolio Links
 - [Main Page](https://GregMacDev.github.io/index.html)
