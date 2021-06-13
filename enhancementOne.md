@@ -6,7 +6,7 @@ I chose this artifact to act as the basis for my other enhancements to build off
 The process of converting the artifact from C++ to Java was more in depth than originally anticipated. Program I/O syntax and language specific data types were not the only changes that I faced during conversion.  I learned that the added security that Java offers over C++ comes with a more robust coding convention. Each of the program’s methods requires an access modifier to maintain the level of security I desired. Converting the struct data type to a Java class is another example of the increased complexity in code in favor of security. The struct originally contained 4 lines of code whereas the completed and secure Java class was roughly 50 lines. The main challenge I faced was designing the user input validation which consists of whitelisting the menu options of the program using nested while loops. I chose to use the security access method of default deny and only allow one of the three menu options to be chosen. Determining the proper way to implement this was a timely process that underwent numerous iterations before I arrived at its current, working, configuration.  
 
 ### Repository
-[Enhancement One](https://github.com/GregMacDev/CS-499-Software-Engineering/tree/main)
+[Enhancement One](https://github.com/GregMacDev/CS-499-Software-Engineering/tree/main){:target="_blank"}
 
 ## ePortfolio Links
 - [Main Page](https://GregMacDev.github.io/index.html)
