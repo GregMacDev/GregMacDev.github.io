@@ -12,7 +12,7 @@ I chose to implement a database into a program that previously did not include a
 COMING SOON
 
 ### Repository
-[Enhancement Three](https://github.com/GregMacDev/CS-499-Database)
+[Enhancement Three](https://github.com/GregMacDev/CS-499-Database){:target="_blank"}
 
 ## ePortfolio Links
 - [Main Page](https://GregMacDev.github.io/index.html)
