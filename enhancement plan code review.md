@@ -1,5 +1,13 @@
 ## Enhancement Plan
+
+### Artifact 1 - Software Design and Engineering
+My first artifact comes from my previous coursework in Data structures and Algorithms and is my Lab 1-3 assignment. The initial purpose of this project was to demonstrate the usage of a struct in C++. Although the project comes from my Data structures and Algorithms course, I will be enhancing this project to illustrate my Software Engineering/Design abilities. My enhancement plan is to transfer the project from using C++ to Java. The main purpose of transferring this project between languages is to increase security of the program. Java does not contain the struct data structure, therefore I will have to convert the struct to a class to use within java. This change will increase the security of the data in the project since, by default, a struct is public, whereas a java class, by default, is private. Not only will the conversion of a struct to a class provide increased security, but it will also demonstrate an understanding of how object-oriented programming works in both languages. I will be changing the makeup of the project from one file to two .java files to further separate the created java class from the main functionality of the program and increase its modularity. User I/O differs between C++ and Java, so transferring this program one language to the other will show my ability to handle and secure user I/O functionality within a program. Each change to this program will be done with a security-first mindset as this will provide the basis for the other enhancements to build off.
+
+### Artifact 2 - Algorithms and Data Structure
+
+### Artifact 3 - Databases
 COMING SOON
+
 ...in progress....
 ## Code Review
 <iframe src="https://youtube.com/embed/n1JorL__gQA" 
