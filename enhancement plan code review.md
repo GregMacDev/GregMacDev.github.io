@@ -5,6 +5,8 @@ My first artifact comes from my previous coursework in Data structures and Algor
 
 ### Artifact 2 - Algorithms and Data Structure
 
+For my second artifact, I will be using my previous enhancement — the conversion of Lab 1-3 of my Data structures and Algorithms course from C++ to Java — to demonstrate my knowledge of Algorithms and Data Structures. The enhancements that are planned are to implement an ArrayList, to store class data objects, and the implementation of a quicksort algorithm, allowing the user to sort the objects within the ArrayList. The implementation of the ArrayList will demonstrate my understanding of using a container to store multiple elements of a specific data type in java. The sorting algorithm will allow the user to sort the data in several ways, based upon the elements of each object. The implementation of the quicksort algorithm will demonstrate my ability to recursively traverse and sort a list of objects in an efficient way. The quicksort algorithm was chosen due to its complexity, O(n log n), which will scale well with the larger data sets that are expected for this program. This enhancement will continue to emphasize security and will be on display for user I/O when entering new class object data and menu options.
+
 ### Artifact 3 - Databases
 COMING SOON
 
