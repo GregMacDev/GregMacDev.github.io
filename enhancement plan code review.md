@@ -10,7 +10,6 @@ For my second enhancement, the artifact I will be using comes from my previous e
 ### Artifact 3 - Databases
 For my third enhancement, the artifact that I will be using once again comes from my previous enhancement where I converted Lab 1-3 of my Data Structures and Algorithms course from C++ to Java. This enhancement will consist of implementing database functionality to store and manipulate data within the program. The database implementation plans to solve the issue of storing data in a central location rather than in a container within the running program. This implementation can prove beneficial if there are multiple instances of the program attempting to access the data. For my enhancement, I plan to utilize a MySQL database and the Java Database Connectivity, or JDBC, library to communicate with the MySQL database. Throughout the third enhancement, security remains paramount, and care will be taken to validate user input and protect against potential SQL injection attacks.
 
-...in progress....
 ## Code Review
 <iframe src="https://youtube.com/embed/n1JorL__gQA" 
     width="560" 
